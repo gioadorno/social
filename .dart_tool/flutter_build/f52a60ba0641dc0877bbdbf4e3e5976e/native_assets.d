@@ -1,0 +1,1 @@
+ /home/gio/workspace/github.com/gioadorno/social/.dart_tool/flutter_build/f52a60ba0641dc0877bbdbf4e3e5976e/native_assets.yaml: 
